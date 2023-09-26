@@ -1,0 +1,4 @@
+.idea/
+long-map.iml
+# Project exclude paths
+/target/
